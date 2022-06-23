@@ -1,12 +1,10 @@
 # HT_System
 
 
-## Build Setup
+Build Setup
 
-# install dependency
 npm install
 
-# develop
 npm run dev
 ```
 
