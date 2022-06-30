@@ -8,13 +8,6 @@ npm install
 npm run dev
 ```
 
+功能展示：
+![image](https://user-images.githubusercontent.com/100737203/176565359-484bf1b3-b88c-4cc3-bcfd-372deeabedfb.png)
 
-
-
-
-接口地址++++++++++++
-权限管理: http://39.98.123.211:8170/swagger-ui.html
-商品管理：http://39.98.123.211:8216/swagger-ui.html
-活动与优惠券管理：http://39.98.123.211:8200/swagger-ui.html
-订单管理：http://39.98.123.211:8204/swagger-ui.html
-客户管理：http://39.98.123.211:8208/swagger-ui.html
